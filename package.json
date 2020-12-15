@@ -1,0 +1,25 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "This is package created for server side development with react course",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MahendraThammita/FrontendEndDevelopmentWithREact_Course.git"
+  },
+  "author": "Mahendra Thammita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MahendraThammita/FrontendEndDevelopmentWithREact_Course/issues"
+  },
+  "homepage": "https://github.com/MahendraThammita/FrontendEndDevelopmentWithREact_Course#readme"
+}
